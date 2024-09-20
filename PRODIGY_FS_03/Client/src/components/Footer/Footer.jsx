@@ -5,7 +5,7 @@ const Footer = () => {
   return (
     <footer className="bg-gray-800 text-gray-300 py-6">
       <div className="container mx-auto text-center">
-        <p className="text-lg">&copy; 2024 ZUShop. All rights reserved.</p>
+        <p className="text-lg">&copy; 2024 YShop. All rights reserved.</p>
         <div className="mt-4 flex justify-center">
           <Link to="/privacy" className="text-blue-400 hover:text-blue-200 mx-2">
             Privacy Policy
